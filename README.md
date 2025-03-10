@@ -1,5 +1,5 @@
 # Sage-To-Synchroteam-Intergration
-On-prem SAGE too SYNCHROTEAM INTERGRATION
+On-prem SAGE to SYNCHROTEAM INTERGRATION
 
 # Requirements
 - Client in Nigeria has SAGE and SYNCHROTEAM field service solution tool.
